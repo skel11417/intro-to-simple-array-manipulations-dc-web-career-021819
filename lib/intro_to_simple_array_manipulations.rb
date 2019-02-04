@@ -36,3 +36,5 @@ end
 
 def using_insert(array1, new_element)
   array1.insert(new_element, 3)
+  
+end
