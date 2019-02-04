@@ -38,3 +38,7 @@ def using_insert(array1, new_element)
   array1.insert(new_element, 3)
   
 end
+
+def using_delete(array1, str)
+  array1.delete(str)
+end
